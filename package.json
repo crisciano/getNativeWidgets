@@ -1,0 +1,14 @@
+{
+  "name": "nativo",
+  "version": "1.0.0",
+  "description": "get native widget by oracle",
+  "main": "index.js",
+  "author": "crisciano.botelho",
+  "license": "MIT",
+  "scripts": {
+      "start": "node index"
+  },
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
